@@ -1,0 +1,9 @@
+Tex Live Dependency Manager
+==========================
+
+Everytime you move your LaTeX project to another machine/environment, you have to reinstall all the packages required by your project. By declaring all the CTAN's packages you use in your project in a simple text file named requirements.tlp, this tool will allow you to execute "sudo tlreq" and have tlmgr install all of them.
+
+Release under the "Do what the fuck you want with this" license.
+
+Alcides Fonseca
+http://alcidesfonseca.com
