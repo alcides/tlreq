@@ -6,7 +6,7 @@ Everytime you move your LaTeX project to another machine/environment, you have t
 INSTALATION
 ===========
 
-chmod +x tlreq and move it to somewhere on your math.
+chmod +x tlreq and move it to somewhere on your path.
 
 CONTRIBUTE: MAKEFILE wanted.
 
